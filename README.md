@@ -18,10 +18,3 @@
 ## Performance Metric
 - Log-loss (Primary KPI)
 - Confusion Matrix
-
-## Analysis
-- Distribution of duplicate and non-duplicate questions
-![1](https://user-images.githubusercontent.com/44356744/183634452-369b570b-e314-4e4f-8d9e-93afbbbd6f68.png)
-
-- Distribution of number of times a question was asked  
-![2](https://user-images.githubusercontent.com/44356744/183634446-4e7d2853-cc14-4165-9a32-0262df0656f1.png)
